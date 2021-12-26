@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(241, 239, 237);
+}
+
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+.top {
+  margin-top: 10px;
+}
+.height {
+  height: 36px;
+}
+.font-h2 {
+  font-size: 42px;
+}
+.font-p {
+  font-size: 16px;
+  font-weight: bold;
+}
+.font-grey {
+  color: grey;
+}
+.border-grey {
+  border-color: grey;
+}
+.margin-bottom {
+  margin-bottom: 130px;
+}
+.col3-heightwidth {
+  width: 100%;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+}
+.bitcoin {
+  font-size: 16px;
+  font-weight: bold;
+}
+.desc {
+  font-size: 12px;
+}
+.dollar {
+  font-size: 24px;
+  font-weight: bold;
+}
+.font-green {
+  color: #00c4a6;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+.bg-color {
+  margin-bottom: 100px;
+}
+
+.orange-line {
+  display: inline-block;
+  width: 36px;
+  height: 3px;
+  background-color: #f9a541;
+}
